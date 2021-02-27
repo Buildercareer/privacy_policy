@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-7 Skies Solutions built the Builder Career app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by 7 Skies Solutions at no cost and is intended for use as is.
+7 Skies Solutions built the Builder Career app as a Free app. This SERVICE is provided by 7 Skies Solutions at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 

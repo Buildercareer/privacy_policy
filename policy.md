@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Email, Phone, Location, Name and other personal inforamtion. we collect this informatin on our server with base address:- http://182.180.143.105:5566/ which will be shifted to domain name in the near future. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Email, Phone, Location, Name and other personal inforamtion. we collect this informatin on our server with base address:- http://173.212.193.125:2323/ which will be shifted to domain name in the near future. The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third party services that may collect information used to identify you.
 
